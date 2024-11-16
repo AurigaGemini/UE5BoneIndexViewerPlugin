@@ -1,7 +1,7 @@
 # UE5BoneIndexViewerPlugin
 Provided an Editor Utility Widget for view SkeletalMesh BoneIndices and BoneNames.
 
-Working confirmed by UE5.5 Preview
+Working confirmed by UE5.5 Preview and UE5.5
 
 Copy 'BoneIndexViewer' folder to Plugins folder in your UE5 project.
 
